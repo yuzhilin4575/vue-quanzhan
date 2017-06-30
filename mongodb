@@ -10,3 +10,7 @@ quiet=false
 port=27017
 
 mongod --config c:\MongoDB\etc\mongo.conf --httpinterface  访问到网页
+
+
+c:\program Files\...bin mongod --config c:\MongoDB\etc\mongo.conf
+然后连接数据库
