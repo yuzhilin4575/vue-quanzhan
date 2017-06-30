@@ -2,4 +2,11 @@
 cd "c:\program Files\...bin"
 菜鸟教程
 配置文件
+dbpath=c:\MongoDB\data\
+logpath=c:\MongoDb\logs\mongo.log
+logappend=true
+journal=true
+quiet=false
+port=27017
+
 mongod --config c:\MongoDB\etc\mongo.conf --httpinterface  访问到网页
