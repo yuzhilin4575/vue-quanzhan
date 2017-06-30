@@ -1,5 +1,5 @@
 
-cd "c:\program Files\"
+cd "c:\program Files\...bin"
 菜鸟教程
 配置文件
 mongod --config c:\MongoDB\etc\mongo.conf --httpinterface  访问到网页
