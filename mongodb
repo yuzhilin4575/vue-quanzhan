@@ -14,3 +14,10 @@ mongod --config c:\MongoDB\etc\mongo.conf --httpinterface  访问到网页
 
 c:\program Files\...bin mongod --config c:\MongoDB\etc\mongo.conf
 然后连接数据库
+
+
+命令行
+1  c:\program Files\...bin mongod --config c:\MongoDB\etc\mongo.conf
+2   c:\program Files\...bin mongo
+3  c:\Users\129727\node> node server/bin/www
+4  前台 npm run dev
